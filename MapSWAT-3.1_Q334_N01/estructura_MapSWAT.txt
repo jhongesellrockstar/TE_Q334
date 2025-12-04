@@ -1,0 +1,231 @@
+Listado de rutas de carpetas
+El n£mero de serie del volumen es A2BA-DF70
+C:.
+³   .gitignore
+³   Base.py
+³   BaseDialog.py
+³   BaseDialog_GEE.py
+³   estructura_MapSWAT.txt
+³   LICENSE
+³   LICENSE.md
+³   metadata.txt
+³   README.md
+³   _config.yml
+³   __init__.py
+³   
+ÃÄÄÄgui
+³   ³   __init__.py
+³   ³   
+³   ÀÄÄÄgenerated
+³           resources_rc.py
+³           ui_dialog.py
+³           ui_dialog_GEE.py
+³           
+ÃÄÄÄimages
+³       add.png
+³       arrow.png
+³       basemap.png
+³       buffer2.png
+³       close.png
+³       coffee.png
+³       coffee2.png
+³       ee.png
+³       icon.png
+³       icon2.png
+³       info2.png
+³       MapSWAT_GEE.png
+³       MapSWAT_v3.png
+³       point.png
+³       puzzle.png
+³       shape.png
+³       upload.png
+³       world.png
+³       
+ÃÄÄÄresources
+³   ³   DSOLMap_taxonomy.csv
+³   ³   DSOLMap_usersoil.csv
+³   ³   LULC_Copernicus.json
+³   ³   LULC_CORINE.json
+³   ³   LULC_GlobCover.json
+³   ³   Soil_DSOLMap.json
+³   ³   
+³   ÃÄÄÄgifs
+³   ³       Activate_MapSWAT.gif
+³   ³       Autobasin_clip.gif
+³   ³       Buffer_clip.gif
+³   ³       Closing.gif
+³   ³       example.gif
+³   ³       GEE_Example_Part1.gif
+³   ³       Install-GEE.gif
+³   ³       Install_MapSWAT.gif
+³   ³       Manual_clip.gif
+³   ³       Merge_DEMs.gif
+³   ³       Shapefile_clip.gif
+³   ³       Standard_Example_Part1.gif
+³   ³       SWAT_Input_Maps.gif
+³   ³       
+³   ÀÄÄÄimages
+³           1.PNG
+³           3.PNG
+³           4-standard.PNG
+³           5-GEE.PNG
+³           6.PNG
+³           7.PNG
+³           login_GEE.png
+³           MapSWAT.svg
+³           msg.png
+³           yellow-button.png
+³           
+ÃÄÄÄTest Data
+³   ÃÄÄÄMapSWAT_Bolulla_1990
+³   ³   ÀÄÄÄMapSWAT
+³   ³       ÃÄÄÄSWAT_INPUT_MAPS
+³   ³       ³   ÃÄÄÄDEM
+³   ³       ³   ³       DEM.DEM.tif
+³   ³       ³   ³       DEM.DEM.tif.aux.xml
+³   ³       ³   ³       DEM.zip
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄLANDUSE
+³   ³       ³   ³       LANDUSE.zip
+³   ³       ³   ³       Landuse_lookup.csv
+³   ³       ³   ³       LULC.landcover.tif
+³   ³       ³   ³       LULC.landcover.tif.aux.xml
+³   ³       ³   ³       
+³   ³       ³   ÀÄÄÄSOIL
+³   ³       ³           DSOLMap_taxonomy.csv
+³   ³       ³           DSOLMap_usersoil.csv
+³   ³       ³           SOIL.b1.tif
+³   ³       ³           SOIL.b1.tif.aux.xml
+³   ³       ³           SOIL.zip
+³   ³       ³           Soil_lookup.csv
+³   ³       ³           
+³   ³       ÀÄÄÄWGS84
+³   ³               POLYGON.dbf
+³   ³               POLYGON.prj
+³   ³               POLYGON.shp
+³   ³               POLYGON.shx
+³   ³               
+³   ÃÄÄÄMapSWAT_Bolulla_2000
+³   ³   ÀÄÄÄMapSWAT
+³   ³       ÃÄÄÄSWAT_INPUT_MAPS
+³   ³       ³   ÃÄÄÄDEM
+³   ³       ³   ³       DEM.DEM.tif
+³   ³       ³   ³       DEM.DEM.tif.aux.xml
+³   ³       ³   ³       DEM.zip
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄLANDUSE
+³   ³       ³   ³       LANDUSE.zip
+³   ³       ³   ³       Landuse_lookup.csv
+³   ³       ³   ³       LULC.landcover.tif
+³   ³       ³   ³       LULC.landcover.tif.aux.xml
+³   ³       ³   ³       
+³   ³       ³   ÀÄÄÄSOIL
+³   ³       ³           DSOLMap_taxonomy.csv
+³   ³       ³           DSOLMap_usersoil.csv
+³   ³       ³           SOIL.b1.tif
+³   ³       ³           SOIL.b1.tif.aux.xml
+³   ³       ³           SOIL.zip
+³   ³       ³           Soil_lookup.csv
+³   ³       ³           
+³   ³       ÀÄÄÄWGS84
+³   ³               POLYGON.dbf
+³   ³               POLYGON.prj
+³   ³               POLYGON.shp
+³   ³               POLYGON.shx
+³   ³               
+³   ÃÄÄÄMapSWAT_Bolulla_2006
+³   ³   ÀÄÄÄMapSWAT
+³   ³       ÃÄÄÄSWAT_INPUT_MAPS
+³   ³       ³   ÃÄÄÄDEM
+³   ³       ³   ³       DEM.DEM.tif
+³   ³       ³   ³       DEM.DEM.tif.aux.xml
+³   ³       ³   ³       DEM.zip
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄLANDUSE
+³   ³       ³   ³       LANDUSE.zip
+³   ³       ³   ³       Landuse_lookup.csv
+³   ³       ³   ³       LULC.landcover.tif
+³   ³       ³   ³       LULC.landcover.tif.aux.xml
+³   ³       ³   ³       
+³   ³       ³   ÀÄÄÄSOIL
+³   ³       ³           DSOLMap_taxonomy.csv
+³   ³       ³           DSOLMap_usersoil.csv
+³   ³       ³           SOIL.b1.tif
+³   ³       ³           SOIL.b1.tif.aux.xml
+³   ³       ³           SOIL.zip
+³   ³       ³           Soil_lookup.csv
+³   ³       ³           
+³   ³       ÀÄÄÄWGS84
+³   ³               POLYGON.dbf
+³   ³               POLYGON.prj
+³   ³               POLYGON.shp
+³   ³               POLYGON.shx
+³   ³               
+³   ÃÄÄÄMapSWAT_Bolulla_2012
+³   ³   ÀÄÄÄMapSWAT
+³   ³       ÃÄÄÄSWAT_INPUT_MAPS
+³   ³       ³   ÃÄÄÄDEM
+³   ³       ³   ³       DEM.DEM.tif
+³   ³       ³   ³       DEM.DEM.tif.aux.xml
+³   ³       ³   ³       DEM.zip
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄLANDUSE
+³   ³       ³   ³       LANDUSE.zip
+³   ³       ³   ³       Landuse_lookup.csv
+³   ³       ³   ³       LULC.landcover.tif
+³   ³       ³   ³       LULC.landcover.tif.aux.xml
+³   ³       ³   ³       
+³   ³       ³   ÀÄÄÄSOIL
+³   ³       ³           DSOLMap_taxonomy.csv
+³   ³       ³           DSOLMap_usersoil.csv
+³   ³       ³           SOIL.b1.tif
+³   ³       ³           SOIL.b1.tif.aux.xml
+³   ³       ³           SOIL.zip
+³   ³       ³           Soil_lookup.csv
+³   ³       ³           
+³   ³       ÀÄÄÄWGS84
+³   ³               POLYGON.dbf
+³   ³               POLYGON.prj
+³   ³               POLYGON.shp
+³   ³               POLYGON.shx
+³   ³               
+³   ÀÄÄÄMapSWAT_Bolulla_2018
+³       ÀÄÄÄMapSWAT
+³           ÃÄÄÄSWAT_INPUT_MAPS
+³           ³   ÃÄÄÄDEM
+³           ³   ³       DEM.DEM.tif
+³           ³   ³       DEM.DEM.tif.aux.xml
+³           ³   ³       DEM.elevation.tif
+³           ³   ³       DEM.elevation.tif.aux.xml
+³           ³   ³       DEM.zip
+³           ³   ³       
+³           ³   ÃÄÄÄLANDUSE
+³           ³   ³       LANDUSE.zip
+³           ³   ³       Landuse_lookup.csv
+³           ³   ³       LULC.landcover.tif
+³           ³   ³       LULC.landcover.tif.aux.xml
+³           ³   ³       
+³           ³   ÀÄÄÄSOIL
+³           ³           DSOLMap_taxonomy.csv
+³           ³           DSOLMap_usersoil.csv
+³           ³           SOIL.b1.tif
+³           ³           SOIL.b1.tif.aux.xml
+³           ³           SOIL.zip
+³           ³           Soil_lookup.csv
+³           ³           
+³           ÀÄÄÄWGS84
+³                   POLYGON.dbf
+³                   POLYGON.prj
+³                   POLYGON.shp
+³                   POLYGON.shx
+³                   
+ÃÄÄÄui.resources
+³       resources.qrc
+³       ui_BaseDialog.ui
+³       ui_BaseDialog_GEE.ui
+³       ui_BaseDialog_GEE_IGP.ui
+³       
+ÀÄÄÄ_includes
+        head-custom-google-analytics.html
+        head-custom.html
+        
