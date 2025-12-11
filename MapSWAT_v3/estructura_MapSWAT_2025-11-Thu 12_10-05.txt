@@ -1,0 +1,169 @@
+============================================== 
+LISTA DE ARCHIVOS DEL PROYECTO MapSWAT 
+Ruta base: C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01 
+Fecha y hora: Thu 12/11/2025 10:05:15.85 
+============================================== 
+ 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\.gitignore  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Base.py  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\BaseDialog.py  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\BaseDialog_GEE.py  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\configuracion.iss  ---  12/11/2025 10:03 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\estructura_MapSWAT.txt  ---  11/26/2025 11:47 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\estructura_MapSWAT_2025-11-Thu 12_10-05.txt  ---  12/11/2025 10:05 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\generar_tree_MapSWAT.bat  ---  12/11/2025 10:04 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\LICENSE  ---  11/14/2025 12:17 PM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\LICENSE.md  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\metadata.txt  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\README.md  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\_config.yml  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\__init__.py  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\docs\INSTALLER_GUIDE.md  ---  12/04/2025 12:31 PM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\gui\__init__.py  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\gui\generated\resources_rc.py  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\gui\generated\ui_dialog.py  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\gui\generated\ui_dialog_GEE.py  ---  12/11/2025 07:50 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\images\add.png  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\images\arrow.png  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\images\basemap.png  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\images\buffer2.png  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\images\close.png  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\images\coffee.png  ---  12/10/2025 04:42 PM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\images\coffee2.png  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\images\ee.png  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\images\icon.png  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\images\icon2.png  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\images\info2.png  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\images\MapSWAT_GEE.png  ---  12/10/2025 04:28 PM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\images\MapSWAT_GEE_01.png  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\images\MapSWAT_v3.png  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\images\point.png  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\images\puzzle.png  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\images\shape.png  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\images\upload.png  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\images\world.png  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\DSOLMap_taxonomy.csv  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\DSOLMap_usersoil.csv  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\LULC_Copernicus.json  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\LULC_CORINE.json  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\LULC_GlobCover.json  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\Soil_DSOLMap.json  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\gifs\Activate_MapSWAT.gif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\gifs\Autobasin_clip.gif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\gifs\Buffer_clip.gif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\gifs\Closing.gif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\gifs\example.gif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\gifs\GEE_Example_Part1.gif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\gifs\Install-GEE.gif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\gifs\Install_MapSWAT.gif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\gifs\Manual_clip.gif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\gifs\Merge_DEMs.gif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\gifs\Shapefile_clip.gif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\gifs\Standard_Example_Part1.gif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\gifs\SWAT_Input_Maps.gif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\images\1.PNG  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\images\3.PNG  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\images\4-standard.PNG  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\images\5-GEE.PNG  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\images\6.PNG  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\images\7.PNG  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\images\login_GEE.png  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\images\MapSWAT.svg  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\images\msg.png  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\resources\images\yellow-button.png  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_1990\MapSWAT\SWAT_INPUT_MAPS\DEM\DEM.DEM.tif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_1990\MapSWAT\SWAT_INPUT_MAPS\DEM\DEM.DEM.tif.aux.xml  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_1990\MapSWAT\SWAT_INPUT_MAPS\DEM\DEM.zip  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_1990\MapSWAT\SWAT_INPUT_MAPS\LANDUSE\LANDUSE.zip  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_1990\MapSWAT\SWAT_INPUT_MAPS\LANDUSE\Landuse_lookup.csv  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_1990\MapSWAT\SWAT_INPUT_MAPS\LANDUSE\LULC.landcover.tif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_1990\MapSWAT\SWAT_INPUT_MAPS\LANDUSE\LULC.landcover.tif.aux.xml  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_1990\MapSWAT\SWAT_INPUT_MAPS\SOIL\DSOLMap_taxonomy.csv  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_1990\MapSWAT\SWAT_INPUT_MAPS\SOIL\DSOLMap_usersoil.csv  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_1990\MapSWAT\SWAT_INPUT_MAPS\SOIL\SOIL.b1.tif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_1990\MapSWAT\SWAT_INPUT_MAPS\SOIL\SOIL.b1.tif.aux.xml  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_1990\MapSWAT\SWAT_INPUT_MAPS\SOIL\SOIL.zip  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_1990\MapSWAT\SWAT_INPUT_MAPS\SOIL\Soil_lookup.csv  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_1990\MapSWAT\WGS84\POLYGON.dbf  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_1990\MapSWAT\WGS84\POLYGON.prj  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_1990\MapSWAT\WGS84\POLYGON.shp  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_1990\MapSWAT\WGS84\POLYGON.shx  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2000\MapSWAT\SWAT_INPUT_MAPS\DEM\DEM.DEM.tif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2000\MapSWAT\SWAT_INPUT_MAPS\DEM\DEM.DEM.tif.aux.xml  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2000\MapSWAT\SWAT_INPUT_MAPS\DEM\DEM.zip  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2000\MapSWAT\SWAT_INPUT_MAPS\LANDUSE\LANDUSE.zip  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2000\MapSWAT\SWAT_INPUT_MAPS\LANDUSE\Landuse_lookup.csv  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2000\MapSWAT\SWAT_INPUT_MAPS\LANDUSE\LULC.landcover.tif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2000\MapSWAT\SWAT_INPUT_MAPS\LANDUSE\LULC.landcover.tif.aux.xml  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2000\MapSWAT\SWAT_INPUT_MAPS\SOIL\DSOLMap_taxonomy.csv  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2000\MapSWAT\SWAT_INPUT_MAPS\SOIL\DSOLMap_usersoil.csv  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2000\MapSWAT\SWAT_INPUT_MAPS\SOIL\SOIL.b1.tif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2000\MapSWAT\SWAT_INPUT_MAPS\SOIL\SOIL.b1.tif.aux.xml  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2000\MapSWAT\SWAT_INPUT_MAPS\SOIL\SOIL.zip  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2000\MapSWAT\SWAT_INPUT_MAPS\SOIL\Soil_lookup.csv  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2000\MapSWAT\WGS84\POLYGON.dbf  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2000\MapSWAT\WGS84\POLYGON.prj  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2000\MapSWAT\WGS84\POLYGON.shp  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2000\MapSWAT\WGS84\POLYGON.shx  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2006\MapSWAT\SWAT_INPUT_MAPS\DEM\DEM.DEM.tif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2006\MapSWAT\SWAT_INPUT_MAPS\DEM\DEM.DEM.tif.aux.xml  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2006\MapSWAT\SWAT_INPUT_MAPS\DEM\DEM.zip  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2006\MapSWAT\SWAT_INPUT_MAPS\LANDUSE\LANDUSE.zip  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2006\MapSWAT\SWAT_INPUT_MAPS\LANDUSE\Landuse_lookup.csv  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2006\MapSWAT\SWAT_INPUT_MAPS\LANDUSE\LULC.landcover.tif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2006\MapSWAT\SWAT_INPUT_MAPS\LANDUSE\LULC.landcover.tif.aux.xml  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2006\MapSWAT\SWAT_INPUT_MAPS\SOIL\DSOLMap_taxonomy.csv  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2006\MapSWAT\SWAT_INPUT_MAPS\SOIL\DSOLMap_usersoil.csv  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2006\MapSWAT\SWAT_INPUT_MAPS\SOIL\SOIL.b1.tif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2006\MapSWAT\SWAT_INPUT_MAPS\SOIL\SOIL.b1.tif.aux.xml  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2006\MapSWAT\SWAT_INPUT_MAPS\SOIL\SOIL.zip  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2006\MapSWAT\SWAT_INPUT_MAPS\SOIL\Soil_lookup.csv  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2006\MapSWAT\WGS84\POLYGON.dbf  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2006\MapSWAT\WGS84\POLYGON.prj  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2006\MapSWAT\WGS84\POLYGON.shp  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2006\MapSWAT\WGS84\POLYGON.shx  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2012\MapSWAT\SWAT_INPUT_MAPS\DEM\DEM.DEM.tif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2012\MapSWAT\SWAT_INPUT_MAPS\DEM\DEM.DEM.tif.aux.xml  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2012\MapSWAT\SWAT_INPUT_MAPS\DEM\DEM.zip  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2012\MapSWAT\SWAT_INPUT_MAPS\LANDUSE\LANDUSE.zip  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2012\MapSWAT\SWAT_INPUT_MAPS\LANDUSE\Landuse_lookup.csv  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2012\MapSWAT\SWAT_INPUT_MAPS\LANDUSE\LULC.landcover.tif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2012\MapSWAT\SWAT_INPUT_MAPS\LANDUSE\LULC.landcover.tif.aux.xml  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2012\MapSWAT\SWAT_INPUT_MAPS\SOIL\DSOLMap_taxonomy.csv  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2012\MapSWAT\SWAT_INPUT_MAPS\SOIL\DSOLMap_usersoil.csv  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2012\MapSWAT\SWAT_INPUT_MAPS\SOIL\SOIL.b1.tif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2012\MapSWAT\SWAT_INPUT_MAPS\SOIL\SOIL.b1.tif.aux.xml  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2012\MapSWAT\SWAT_INPUT_MAPS\SOIL\SOIL.zip  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2012\MapSWAT\SWAT_INPUT_MAPS\SOIL\Soil_lookup.csv  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2012\MapSWAT\WGS84\POLYGON.dbf  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2012\MapSWAT\WGS84\POLYGON.prj  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2012\MapSWAT\WGS84\POLYGON.shp  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2012\MapSWAT\WGS84\POLYGON.shx  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2018\MapSWAT\SWAT_INPUT_MAPS\DEM\DEM.DEM.tif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2018\MapSWAT\SWAT_INPUT_MAPS\DEM\DEM.DEM.tif.aux.xml  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2018\MapSWAT\SWAT_INPUT_MAPS\DEM\DEM.elevation.tif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2018\MapSWAT\SWAT_INPUT_MAPS\DEM\DEM.elevation.tif.aux.xml  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2018\MapSWAT\SWAT_INPUT_MAPS\DEM\DEM.zip  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2018\MapSWAT\SWAT_INPUT_MAPS\LANDUSE\LANDUSE.zip  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2018\MapSWAT\SWAT_INPUT_MAPS\LANDUSE\Landuse_lookup.csv  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2018\MapSWAT\SWAT_INPUT_MAPS\LANDUSE\LULC.landcover.tif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2018\MapSWAT\SWAT_INPUT_MAPS\LANDUSE\LULC.landcover.tif.aux.xml  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2018\MapSWAT\SWAT_INPUT_MAPS\SOIL\DSOLMap_taxonomy.csv  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2018\MapSWAT\SWAT_INPUT_MAPS\SOIL\DSOLMap_usersoil.csv  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2018\MapSWAT\SWAT_INPUT_MAPS\SOIL\SOIL.b1.tif  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2018\MapSWAT\SWAT_INPUT_MAPS\SOIL\SOIL.b1.tif.aux.xml  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2018\MapSWAT\SWAT_INPUT_MAPS\SOIL\SOIL.zip  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2018\MapSWAT\SWAT_INPUT_MAPS\SOIL\Soil_lookup.csv  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2018\MapSWAT\WGS84\POLYGON.dbf  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2018\MapSWAT\WGS84\POLYGON.prj  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2018\MapSWAT\WGS84\POLYGON.shp  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\Test Data\MapSWAT_Bolulla_2018\MapSWAT\WGS84\POLYGON.shx  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\ui.resources\resources.qrc  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\ui.resources\ui_BaseDialog.ui  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\ui.resources\ui_BaseDialog_GEE.ui  ---  12/10/2025 05:23 PM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\ui.resources\ui_dialog_GEE.py  ---  12/11/2025 09:10 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\ui.resources_original\resources.qrc  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\ui.resources_original\ui_BaseDialog.ui  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\ui.resources_original\ui_BaseDialog_GEE.ui  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\_includes\head-custom-google-analytics.html  ---  07/17/2024 07:12 AM 
+C:\Users\jhonv\Documents\GitHub2025\TE_Q334\MapSWAT-3.1_Q334_N01\_includes\head-custom.html  ---  07/17/2024 07:12 AM 
